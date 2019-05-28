@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caka.Flowlayout.Lib", "Caka.Flowlayout.Lib.csproj", "{BFD965E7-3904-4720-9F53-6706E705EDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD965E7-3904-4720-9F53-6706E705EDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD965E7-3904-4720-9F53-6706E705EDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD965E7-3904-4720-9F53-6706E705EDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD965E7-3904-4720-9F53-6706E705EDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013A2129-23FE-4D6F-B57D-E98EB3E32C0C}
+	EndGlobalSection
+EndGlobal
